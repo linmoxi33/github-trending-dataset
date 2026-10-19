@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T08:04:21+00:00",
-  "min_score": 30.0,
+  "generated_at": "2026-10-19T08:16:28+00:00",
+  "min_score": 45.0,
   "candidates": [
     {
       "domain": "sandboxes",
@@ -35,52 +35,7 @@
       ]
     },
     {
-      "domain": "voice-clone",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
-      "domain": "cloning",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
-      "domain": "audiobook",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
-      "domain": "dubbing",
+      "domain": "transcription",
       "score": 79.9,
       "breakdown": {
         "crowding": 35.0,
@@ -110,7 +65,52 @@
       ]
     },
     {
-      "domain": "transcription",
+      "domain": "cloning",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "dubbing",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "audiobook",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "voice-clone",
       "score": 79.9,
       "breakdown": {
         "crowding": 35.0,
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "domain": "artcraft",
+      "domain": "crafting",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "domain": "crafting",
+      "domain": "intentional",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "domain": "intentional",
+      "domain": "artcraft",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "domain": "research-first",
+      "domain": "instincts",
       "score": 77.1,
       "breakdown": {
         "crowding": 35.0,
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "domain": "instincts",
+      "domain": "research-first",
       "score": 77.1,
       "breakdown": {
         "crowding": 35.0,
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "domain": "verified",
+      "domain": "multi-phase",
       "score": 76.4,
       "breakdown": {
         "crowding": 35.0,

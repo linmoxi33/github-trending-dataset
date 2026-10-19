@@ -100,11 +100,11 @@ A high score means several projects are pulling attention to a domain that nobod
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +2,232 | 54,534 |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1,175 | 42,939 |
-| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,414 | 216,981 |
-| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +350 | 12,887 |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +513 | 76,747 |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +2,232 | 54,549 |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1,175 | 42,942 |
+| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,414 | 216,984 |
+| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +350 | 12,888 |
+| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +513 | 76,750 |
 
 ### Coverage gaps
 
@@ -114,9 +114,9 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 |---:|---|---:|---:|---|
 | 81.7 | `sandboxes` | 0 | — | `context-mode`, `cua` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 79.9 | `voice-clone` | 0 | — | `VoiceStudio` |
+| 79.9 | `transcription` | 0 | — | `VoiceStudio` |
+| 79.9 | `dictation` | 0 | — | `VoiceStudio` |
 | 79.9 | `cloning` | 0 | — | `VoiceStudio` |
-| 79.9 | `audiobook` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 

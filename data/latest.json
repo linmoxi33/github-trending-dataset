@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "captured_at": "2026-10-19T08:04:13+00:00",
+  "captured_at": "2026-10-19T08:08:36+00:00",
   "source": "https://github.com/trending",
   "lists": {
     "daily": [
@@ -9,8 +9,8 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "language": "Python",
-        "stars_total": 54534,
-        "forks_total": 17621,
+        "stars_total": 54549,
+        "forks_total": 17622,
         "stars_period": 2232,
         "built_by": [
           "claude",
@@ -25,7 +25,7 @@
         "url": "https://github.com/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_total": 42939,
+        "stars_total": 42942,
         "forks_total": 4548,
         "stars_period": 1175,
         "built_by": [
@@ -41,8 +41,8 @@
         "url": "https://github.com/anomalyco/opencode",
         "description": "The open source coding agent.",
         "language": "TypeScript",
-        "stars_total": 216981,
-        "forks_total": 29029,
+        "stars_total": 216984,
+        "forks_total": 29028,
         "stars_period": 1414,
         "built_by": [
           "thdxr",
@@ -57,7 +57,7 @@
         "url": "https://github.com/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_total": 12887,
+        "stars_total": 12888,
         "forks_total": 1266,
         "stars_period": 350,
         "built_by": [
@@ -73,7 +73,7 @@
         "url": "https://github.com/ruvnet/ruflo",
         "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
         "language": "TypeScript",
-        "stars_total": 76747,
+        "stars_total": 76750,
         "forks_total": 9068,
         "stars_period": 513,
         "built_by": [
@@ -88,8 +88,8 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "language": "Rust",
-        "stars_total": 10744,
-        "forks_total": 760,
+        "stars_total": 10748,
+        "forks_total": 761,
         "stars_period": 512,
         "built_by": [
           "akitaonrails",
@@ -104,7 +104,7 @@
         "url": "https://github.com/YuJunZhiXue/dsh-purge",
         "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
         "language": "JavaScript",
-        "stars_total": 7281,
+        "stars_total": 7285,
         "forks_total": 1099,
         "stars_period": 423,
         "built_by": [
@@ -120,7 +120,7 @@
         "url": "https://github.com/stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "language": "TypeScript",
-        "stars_total": 97230,
+        "stars_total": 97235,
         "forks_total": 6201,
         "stars_period": 1146,
         "built_by": [
@@ -136,8 +136,8 @@
         "url": "https://github.com/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "language": "Python",
-        "stars_total": 54833,
-        "forks_total": 4958,
+        "stars_total": 54839,
+        "forks_total": 4959,
         "stars_period": 589,
         "built_by": [
           "yuh-yang",
@@ -152,8 +152,8 @@
         "url": "https://github.com/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_total": 76247,
-        "forks_total": 8341,
+        "stars_total": 76254,
+        "forks_total": 8344,
         "stars_period": 2082,
         "built_by": [
           "debpalash",
@@ -184,7 +184,7 @@
         "url": "https://github.com/mlabonne/llm-course",
         "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
         "language": null,
-        "stars_total": 84249,
+        "stars_total": 84252,
         "forks_total": 9799,
         "stars_period": 81,
         "built_by": [
@@ -198,7 +198,7 @@
         "url": "https://github.com/Kruk2/jasna",
         "description": "Video restoration tool",
         "language": "Python",
-        "stars_total": 2618,
+        "stars_total": 2621,
         "forks_total": 198,
         "stars_period": 115,
         "built_by": [
@@ -214,7 +214,7 @@
         "url": "https://github.com/Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "language": "Python",
-        "stars_total": 138964,
+        "stars_total": 138968,
         "forks_total": 16514,
         "stars_period": 154,
         "built_by": [
@@ -232,8 +232,8 @@
         "url": "https://github.com/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
-        "stars_total": 327687,
-        "forks_total": 82936,
+        "stars_total": 327742,
+        "forks_total": 82948,
         "stars_period": 229268,
         "built_by": [
           "morluto",
@@ -248,7 +248,7 @@
         "url": "https://github.com/storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "language": "Rust",
-        "stars_total": 33093,
+        "stars_total": 33098,
         "forks_total": 5233,
         "stars_period": 16379,
         "built_by": [
@@ -264,7 +264,7 @@
         "url": "https://github.com/boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "language": "C++",
-        "stars_total": 43566,
+        "stars_total": 43571,
         "forks_total": 3960,
         "stars_period": 14224,
         "built_by": [
@@ -280,7 +280,7 @@
         "url": "https://github.com/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_total": 42939,
+        "stars_total": 42942,
         "forks_total": 4548,
         "stars_period": 4774,
         "built_by": [
@@ -312,7 +312,7 @@
         "url": "https://github.com/cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "language": "HTML",
-        "stars_total": 57976,
+        "stars_total": 57978,
         "forks_total": 3719,
         "stars_period": 7901,
         "built_by": [
@@ -328,8 +328,8 @@
         "url": "https://github.com/NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
-        "stars_total": 91137,
-        "forks_total": 10202,
+        "stars_total": 91138,
+        "forks_total": 10203,
         "stars_period": 7602,
         "built_by": [
           "ryanmkurtz",
@@ -344,7 +344,7 @@
         "url": "https://github.com/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_total": 67050,
+        "stars_total": 67054,
         "forks_total": 6076,
         "stars_period": 5883,
         "built_by": [
@@ -360,7 +360,7 @@
         "url": "https://github.com/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_total": 12887,
+        "stars_total": 12888,
         "forks_total": 1266,
         "stars_period": 1717,
         "built_by": [
@@ -376,8 +376,8 @@
         "url": "https://github.com/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "language": "Python",
-        "stars_total": 54534,
-        "forks_total": 17621,
+        "stars_total": 54549,
+        "forks_total": 17623,
         "stars_period": 5742,
         "built_by": [
           "claude",
@@ -394,7 +394,7 @@
         "url": "https://github.com/paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "language": "TypeScript",
-        "stars_total": 104319,
+        "stars_total": 104323,
         "forks_total": 17422,
         "stars_period": 23340,
         "built_by": [
@@ -410,8 +410,8 @@
         "url": "https://github.com/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_total": 76247,
-        "forks_total": 8341,
+        "stars_total": 76254,
+        "forks_total": 8344,
         "stars_period": 42036,
         "built_by": [
           "debpalash",
@@ -426,7 +426,7 @@
         "url": "https://github.com/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_total": 67050,
+        "stars_total": 67055,
         "forks_total": 6076,
         "stars_period": 15429,
         "built_by": [
@@ -442,7 +442,7 @@
         "url": "https://github.com/anthropics/financial-services",
         "description": null,
         "language": "Python",
-        "stars_total": 40324,
+        "stars_total": 40326,
         "forks_total": 5654,
         "stars_period": 5498,
         "built_by": [
@@ -458,7 +458,7 @@
         "url": "https://github.com/vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "language": "Python",
-        "stars_total": 51387,
+        "stars_total": 51388,
         "forks_total": 6155,
         "stars_period": 27550,
         "built_by": [
@@ -474,7 +474,7 @@
         "url": "https://github.com/cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
-        "stars_total": 31305,
+        "stars_total": 31308,
         "forks_total": 1960,
         "stars_period": 19109,
         "built_by": [
@@ -536,8 +536,8 @@
         "url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_total": 283517,
-        "forks_total": 42113,
+        "stars_total": 283520,
+        "forks_total": 42114,
         "stars_period": 23080,
         "built_by": [
           "affaan-m",
@@ -552,7 +552,7 @@
         "url": "https://github.com/tashfeenahmed/freellmapi",
         "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "language": "TypeScript",
-        "stars_total": 37244,
+        "stars_total": 37245,
         "forks_total": 5032,
         "stars_period": 10063,
         "built_by": [
@@ -568,8 +568,8 @@
         "url": "https://github.com/anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
-        "stars_total": 30299,
-        "forks_total": 3426,
+        "stars_total": 30300,
+        "forks_total": 3427,
         "stars_period": 5493,
         "built_by": [
           "github-actions",
@@ -584,8 +584,8 @@
         "url": "https://github.com/NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
-        "stars_total": 91137,
-        "forks_total": 10202,
+        "stars_total": 91138,
+        "forks_total": 10203,
         "stars_period": 12009,
         "built_by": [
           "ryanmkurtz",
@@ -600,7 +600,7 @@
         "url": "https://github.com/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_total": 12887,
+        "stars_total": 12888,
         "forks_total": 1266,
         "stars_period": 4507,
         "built_by": [
@@ -632,7 +632,7 @@
         "url": "https://github.com/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_total": 42939,
+        "stars_total": 42942,
         "forks_total": 4548,
         "stars_period": 6015,
         "built_by": [
@@ -680,7 +680,7 @@
         "url": "https://github.com/longbridge/gpui-kit",
         "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
         "language": "Rust",
-        "stars_total": 18186,
+        "stars_total": 18187,
         "forks_total": 1104,
         "stars_period": 3632,
         "built_by": [
@@ -696,7 +696,7 @@
         "url": "https://github.com/pingdotgg/t3code",
         "description": null,
         "language": "TypeScript",
-        "stars_total": 28447,
+        "stars_total": 28448,
         "forks_total": 7593,
         "stars_period": 5415,
         "built_by": [
