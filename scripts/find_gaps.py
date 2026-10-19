@@ -8,9 +8,9 @@ Output
     data/gap/YYYY-MM-DD.json  - scored candidate gaps, highest first
 
 Scoring (0-100)
-    crowding   0-40  fewer existing awesome lists -> higher
-    momentum   0-35  faster star velocity in trending -> higher
-    freshness  0-25  newly hot vs. an already covered domain
+    crowding   0-35  fewer existing awesome lists -> higher
+    momentum   0-40  faster star velocity in trending -> higher
+    spread     0-25  more independent repos riding the topic -> higher
 """
 
 from __future__ import annotations

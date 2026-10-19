@@ -1,6 +1,10 @@
 # Data only — no build artifacts, no local environments.
 __pycache__/
 *.py[cod]
+# `*.py[cod]` does not match `.pyc.tmp`, which is what py_compile writes when
+# given an explicit `cfile`. Seven of these were committed before it was caught.
+*.pyc.*
+*.pyo.*
 .venv/
 venv/
 

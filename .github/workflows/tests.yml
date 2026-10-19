@@ -10,12 +10,17 @@ permissions:
 
 jobs:
   pytest:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python: ["3.10", "3.12"]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: ${{ matrix.python }}
           cache: pip
       - name: Install deps
         run: |
@@ -23,3 +28,24 @@ jobs:
           pip install pytest
       - name: Test
         run: python -m pytest tests/ -q
+
+  # `query.py` claims to need nothing but the standard library. Prove it in a
+  # job that never installs `requirements.txt`, so the claim cannot rot into a
+  # lie, and run it isolated (`-I`) so a stray site-package cannot rescue it.
+  stdlib-only:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: No third-party packages are installed
+        run: |
+          python -I -c "import requests" && exit 1 || echo "requests absent, as intended"
+      - name: Every sub-command answers on the committed data
+        run: |
+          python -I scripts/query.py stats
+          python -I scripts/query.py top --limit 3
+          python -I scripts/query.py windows
+          python -I scripts/query.py --json stats > /dev/null
+          python -I scripts/query.py timeline "$(python -I scripts/query.py --json top --limit 1 | python -I -c 'import json,sys; print(json.load(sys.stdin)["rows"][0]["repo"])')"

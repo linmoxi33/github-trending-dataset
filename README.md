@@ -17,6 +17,7 @@ Updated automatically at **23:50 UTC** by GitHub Actions. No bot accounts, no sc
 | `data/awesome_index.json` | Every `awesome-*` repository above 100 stars, collapsed to one entry per domain |
 | `data/gap/YYYY-MM-DD.json` | Scored candidates for domains that trend but have no dedicated list |
 | `assets/cover.png` | Social preview card |
+| `scripts/query.py` | Reads the archive back: coverage, rankings, timelines, day-to-day diffs |
 
 ### Snapshot schema
 
@@ -72,9 +73,68 @@ Three reasons:
 
 1. **No history.** Yesterday's ranking is not addressable today.
 2. **No machine-readable output.** The page is HTML with no API behind it.
-3. **No comparison.** The three windows (24 h, 7 d, 30 d) are separate pages; here they sit in one file per day.
+3. **No comparison.** The three windows (24 h, 7 d, 30 d) are separate pages; here they sit in one file per day — and `query.py windows` puts them side by side.
 
 ---
+
+## Querying the archive
+
+Storing the history is only half the job — `scripts/query.py` is the half that
+answers questions about it. Standard library only, so it runs on a plain
+checkout with no `pip install`.
+
+```bash
+# What does the archive actually cover? Which days are missing?
+python scripts/query.py stats
+
+# One day's ranking, by trending order or by total stars
+python scripts/query.py top --date 2026-10-19 --limit 5
+python scripts/query.py top --period monthly --sort total
+
+# Every day one repository appeared, with rank moves and star deltas
+python scripts/query.py timeline anomalyco/opencode
+
+# Who entered, who left, who moved between two snapshots
+python scripts/query.py diff 2026-10-17 2026-10-18
+
+# The three windows side by side: who is in more than one of them
+python scripts/query.py windows
+```
+
+Add `--json` anywhere for machine-readable output:
+
+```bash
+python scripts/query.py --json windows | jq '.crossing[].repo'
+```
+
+### What the numbers mean
+
+`stats` reports the days the archive is *missing*, not just the days it holds.
+A gap matters because a delta computed across it is not a one-day delta, and
+`timeline` labels those rows `total delta spans 4d, 3 missing` rather than
+letting the number read as daily growth.
+
+`timeline` also prints a **drift** column for consecutive days:
+
+```
+drift = (stars_total today - stars_total yesterday) - stars_period today
+```
+
+Both figures come from GitHub and they do not always agree — the period count
+is a windowed label, the total is a running counter sampled at fetch time. A
+large drift is worth knowing about before you publish a "gained N stars" claim.
+
+`windows` answers the question the three separate Trending pages cannot: which
+projects are climbing on more than one timescale at once. A repository in
+`daily` **and** `monthly` is a long-running project spiking now; one in `daily`
+only is a single-day event.
+
+Rank is not stored in the snapshot. It is the position in the array, which is
+the order GitHub returned, which is the order `fetch_trending.py` preserves —
+so `rank: 1` always means "top of that list that day".
+
+---
+
 
 ## The gap index
 
@@ -135,6 +195,13 @@ python scripts/render_readme.py             # rewrite the block above
 python scripts/make_cover.py                # regenerate assets/cover.png
 ```
 
+Read it back:
+
+```bash
+python scripts/query.py stats               # coverage, gaps, latest.json integrity
+python scripts/query.py windows             # daily / weekly / monthly, side by side
+```
+
 Test the issue notifier without touching your tracker:
 
 ```bash
@@ -153,6 +220,8 @@ python scripts/notify_issue.py --threshold 80 --dry-run
 - `stars_period` is whatever GitHub labels in the window ("stars today" / "this week" / "this month"); it is not recomputed from `stars_total`.
 - The awesome-list index merges two search queries (`topic:awesome-list` and `awesome in:name`) because plenty of well-known lists never added the topic.
 - Star counts here measure bookmarks, not quality. A repo with 50k stars and no commits in two years is a museum piece.
+- A snapshot only exists for a day the workflow actually ran. `query.py stats` lists the missing days; anything comparing two dates more than a day apart says so in the output.
+- The list order GitHub returns is the ranking. There is no separate rank field to drift out of sync with it.
 
 ## License
 
