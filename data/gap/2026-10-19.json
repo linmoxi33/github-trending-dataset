@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T06:41:34+00:00",
-  "min_score": 45.0,
+  "generated_at": "2026-10-19T08:04:21+00:00",
+  "min_score": 30.0,
   "candidates": [
     {
       "domain": "sandboxes",
@@ -35,37 +35,7 @@
       ]
     },
     {
-      "domain": "dubbing",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
       "domain": "voice-clone",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
-      "domain": "transcription",
       "score": 79.9,
       "breakdown": {
         "crowding": 35.0,
@@ -95,21 +65,6 @@
       ]
     },
     {
-      "domain": "dictation",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
       "domain": "audiobook",
       "score": 79.9,
       "breakdown": {
@@ -125,18 +80,48 @@
       ]
     },
     {
-      "domain": "hindsight",
-      "score": 77.8,
+      "domain": "dubbing",
+      "score": 79.9,
       "breakdown": {
         "crowding": 35.0,
-        "momentum": 37.8,
+        "momentum": 39.9,
         "spread": 5.0
       },
       "existing_lists": 0,
       "existing_top_stars": 0,
       "existing_top_repo": null,
       "witnesses": [
-        "vectorize-io/hindsight"
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "dictation",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "transcription",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
       ]
     },
     {
@@ -155,37 +140,37 @@
       ]
     },
     {
-      "domain": "crafting",
-      "score": 77.4,
+      "domain": "hindsight",
+      "score": 77.8,
       "breakdown": {
         "crowding": 35.0,
-        "momentum": 37.4,
+        "momentum": 37.8,
         "spread": 5.0
       },
       "existing_lists": 0,
       "existing_top_stars": 0,
       "existing_top_repo": null,
       "witnesses": [
-        "storytold/artcraft"
-      ]
-    },
-    {
-      "domain": "designers",
-      "score": 77.4,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 37.4,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "storytold/artcraft"
+        "vectorize-io/hindsight"
       ]
     },
     {
       "domain": "artcraft",
+      "score": 77.4,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.4,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "storytold/artcraft"
+      ]
+    },
+    {
+      "domain": "crafting",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -215,6 +200,21 @@
       ]
     },
     {
+      "domain": "designers",
+      "score": 77.4,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.4,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "storytold/artcraft"
+      ]
+    },
+    {
       "domain": "intentional",
       "score": 77.4,
       "breakdown": {
@@ -228,7 +228,82 @@
       "witnesses": [
         "storytold/artcraft"
       ]
+    },
+    {
+      "domain": "research-first",
+      "score": 77.1,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.1,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "affaan-m/ECC"
+      ]
+    },
+    {
+      "domain": "instincts",
+      "score": 77.1,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.1,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "affaan-m/ECC"
+      ]
+    },
+    {
+      "domain": "executables",
+      "score": 76.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "boykopovar/AnyPS5"
+      ]
+    },
+    {
+      "domain": "ps5",
+      "score": 76.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "boykopovar/AnyPS5"
+      ]
+    },
+    {
+      "domain": "verified",
+      "score": 76.4,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.4,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
     }
   ],
-  "total_topics_seen": 169
+  "total_topics_seen": 172
 }
