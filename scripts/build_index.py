@@ -72,8 +72,7 @@ def collect(session: requests.Session, base_query: str, floor: int) -> list[dict
         else:
             q = f"{base_query} stars:{floor}..{hi}"
         first = search(session, q, 1)
-        total = first.get("total_count", 0)
-        if total == 0:
+        total = first.get("total_count", 0)        if total == 0:
             break
         page = 1
         items = first.get("items", [])
