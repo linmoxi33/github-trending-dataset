@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T08:16:28+00:00",
+  "generated_at": "2026-10-19T10:18:08+00:00",
   "min_score": 45.0,
   "candidates": [
     {
@@ -35,37 +35,22 @@
       ]
     },
     {
-      "domain": "transcription",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
-      "domain": "dictation",
-      "score": 79.9,
-      "breakdown": {
-        "crowding": 35.0,
-        "momentum": 39.9,
-        "spread": 5.0
-      },
-      "existing_lists": 0,
-      "existing_top_stars": 0,
-      "existing_top_repo": null,
-      "witnesses": [
-        "debpalash/VoiceStudio"
-      ]
-    },
-    {
       "domain": "cloning",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "voice-clone",
       "score": 79.9,
       "breakdown": {
         "crowding": 35.0,
@@ -110,7 +95,22 @@
       ]
     },
     {
-      "domain": "voice-clone",
+      "domain": "dictation",
+      "score": 79.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "transcription",
       "score": 79.9,
       "breakdown": {
         "crowding": 35.0,
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "domain": "crafting",
+      "domain": "designers",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "domain": "intentional",
+      "domain": "artcraft",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "domain": "designers",
+      "domain": "crafting",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "domain": "artcraft",
+      "domain": "intentional",
       "score": 77.4,
       "breakdown": {
         "crowding": 35.0,
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "domain": "multi-phase",
+      "domain": "independently",
       "score": 76.4,
       "breakdown": {
         "crowding": 35.0,
