@@ -1,0 +1,696 @@
+{
+  "date": "2026-10-19",
+  "captured_at": "2026-10-19T06:41:26+00:00",
+  "source": "https://github.com/trending",
+  "lists": {
+    "daily": [
+      {
+        "repo": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars_total": 54239,
+        "forks_total": 17567,
+        "stars_period": 2232,
+        "built_by": [
+          "claude",
+          "MadsLorentzen",
+          "ayobamiseun",
+          "oscarbol09",
+          "rudycelekli"
+        ]
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars_total": 42887,
+        "forks_total": 4544,
+        "stars_period": 1175,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mhegazy"
+        ]
+      },
+      {
+        "repo": "anomalyco/opencode",
+        "url": "https://github.com/anomalyco/opencode",
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "stars_total": 216886,
+        "forks_total": 29026,
+        "stars_period": 1414,
+        "built_by": [
+          "thdxr",
+          "rekram1-node",
+          "adamdotdevin",
+          "opencode-agent",
+          "kitlangton"
+        ]
+      },
+      {
+        "repo": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars_total": 12859,
+        "forks_total": 1265,
+        "stars_period": 350,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "minupalaniappan",
+          "ericzakariasson",
+          "roshansada"
+        ]
+      },
+      {
+        "repo": "ruvnet/ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "stars_total": 76704,
+        "forks_total": 9066,
+        "stars_period": 513,
+        "built_by": [
+          "ruvnet",
+          "claude",
+          "rudycelekli",
+          "proffesor-for-testing"
+        ]
+      },
+      {
+        "repo": "akitaonrails/ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "stars_total": 10706,
+        "forks_total": 757,
+        "stars_period": 512,
+        "built_by": [
+          "akitaonrails",
+          "claude",
+          "viniciusdsandrade",
+          "djalmajr",
+          "everton-dgn"
+        ]
+      },
+      {
+        "repo": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "stars_total": 97117,
+        "forks_total": 6198,
+        "stars_period": 1146,
+        "built_by": [
+          "nwparker",
+          "brennanb2025",
+          "Jinwoo-H",
+          "AmethystLiang",
+          "orca-ide"
+        ]
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "stars_total": 54785,
+        "forks_total": 4955,
+        "stars_period": 589,
+        "built_by": [
+          "yuh-yang",
+          "claude",
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
+        ]
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars_total": 76099,
+        "forks_total": 8326,
+        "stars_period": 2082,
+        "built_by": [
+          "debpalash",
+          "claude",
+          "velixio",
+          "kevin9327",
+          "jaketame"
+        ]
+      },
+      {
+        "repo": "android/skills",
+        "url": "https://github.com/android/skills",
+        "description": null,
+        "language": "Kotlin",
+        "stars_total": 8897,
+        "forks_total": 571,
+        "stars_period": 375,
+        "built_by": [
+          "android-devrel-github-bot",
+          "simona-anomis",
+          "JoseAlcerreca",
+          "bentrengrove",
+          "vinishavathwani"
+        ]
+      },
+      {
+        "repo": "mlabonne/llm-course",
+        "url": "https://github.com/mlabonne/llm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "language": null,
+        "stars_total": 84207,
+        "forks_total": 9793,
+        "stars_period": 81,
+        "built_by": [
+          "mlabonne",
+          "pitmonticone",
+          "Shrinija17"
+        ]
+      },
+      {
+        "repo": "Kruk2/jasna",
+        "url": "https://github.com/Kruk2/jasna",
+        "description": "Video restoration tool",
+        "language": "Python",
+        "stars_total": 2575,
+        "forks_total": 197,
+        "stars_period": 115,
+        "built_by": [
+          "Kruk2",
+          "suphamster",
+          "claude",
+          "helkaluin",
+          "ironicgitposting"
+        ]
+      },
+      {
+        "repo": "Comfy-Org/ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "language": "Python",
+        "stars_total": 138896,
+        "forks_total": 16514,
+        "stars_period": 154,
+        "built_by": [
+          "comfyanonymous",
+          "bigcat88",
+          "pythongosssss",
+          "comfyui-wiki",
+          "rattus128"
+        ]
+      }
+    ],
+    "weekly": [
+      {
+        "repo": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars_total": 326552,
+        "forks_total": 82690,
+        "stars_period": 229268,
+        "built_by": [
+          "morluto",
+          "N0zoM1z0",
+          "kaoru0822-kitauji",
+          "claude",
+          "rudycelekli"
+        ]
+      },
+      {
+        "repo": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars_total": 33016,
+        "forks_total": 5224,
+        "stars_period": 16379,
+        "built_by": [
+          "echelon",
+          "bflatastic",
+          "ArEnSc",
+          "wilwong",
+          "Quicksticks-oss"
+        ]
+      },
+      {
+        "repo": "boykopovar/AnyPS5",
+        "url": "https://github.com/boykopovar/AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "stars_total": 43465,
+        "forks_total": 3951,
+        "stars_period": 14224,
+        "built_by": [
+          "claude",
+          "adriadam10",
+          "oneandonlydean",
+          "boykopovar",
+          "MarcZX10"
+        ]
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars_total": 42887,
+        "forks_total": 4544,
+        "stars_period": 4774,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mhegazy"
+        ]
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars_total": 30851,
+        "forks_total": 2297,
+        "stars_period": 4138,
+        "built_by": [
+          "mksglu",
+          "github-actions",
+          "claude",
+          "ipedro",
+          "ousamabenyounes"
+        ]
+      },
+      {
+        "repo": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars_total": 57918,
+        "forks_total": 3715,
+        "stars_period": 7901,
+        "built_by": [
+          "cathrynlavery",
+          "github-actions",
+          "rudycelekli",
+          "claude",
+          "parveen0029"
+        ]
+      },
+      {
+        "repo": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars_total": 91092,
+        "forks_total": 10195,
+        "stars_period": 7602,
+        "built_by": [
+          "ryanmkurtz",
+          "ghidra1",
+          "dragonmacher",
+          "nsadeveloper789",
+          "caheckman"
+        ]
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_total": 66983,
+        "forks_total": 6072,
+        "stars_period": 5883,
+        "built_by": [
+          "miguel-heygen",
+          "vanceingalls",
+          "jrusso1020",
+          "claude",
+          "ukimsanov"
+        ]
+      },
+      {
+        "repo": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars_total": 12859,
+        "forks_total": 1265,
+        "stars_period": 1717,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "minupalaniappan",
+          "ericzakariasson",
+          "roshansada"
+        ]
+      },
+      {
+        "repo": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars_total": 54239,
+        "forks_total": 17568,
+        "stars_period": 5742,
+        "built_by": [
+          "claude",
+          "MadsLorentzen",
+          "ayobamiseun",
+          "oscarbol09",
+          "rudycelekli"
+        ]
+      }
+    ],
+    "monthly": [
+      {
+        "repo": "paperclipai/paperclip",
+        "url": "https://github.com/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars_total": 104280,
+        "forks_total": 17411,
+        "stars_period": 23340,
+        "built_by": [
+          "cryppadotta",
+          "Paperclip-Paperclip",
+          "devinfoley",
+          "claude",
+          "nickyleach"
+        ]
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars_total": 76099,
+        "forks_total": 8326,
+        "stars_period": 42036,
+        "built_by": [
+          "debpalash",
+          "claude",
+          "velixio",
+          "kevin9327",
+          "jaketame"
+        ]
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_total": 66983,
+        "forks_total": 6072,
+        "stars_period": 15429,
+        "built_by": [
+          "miguel-heygen",
+          "vanceingalls",
+          "jrusso1020",
+          "claude",
+          "ukimsanov"
+        ]
+      },
+      {
+        "repo": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": null,
+        "language": "Python",
+        "stars_total": 40311,
+        "forks_total": 5653,
+        "stars_period": 5498,
+        "built_by": [
+          "mihilmy",
+          "cxyback",
+          "manar-ant",
+          "tobinsouth",
+          "viveknair"
+        ]
+      },
+      {
+        "repo": "vectorize-io/hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "stars_total": 51350,
+        "forks_total": 6156,
+        "stars_period": 27550,
+        "built_by": [
+          "nicoloboschi",
+          "benfrank241",
+          "claude",
+          "cdbartholomew",
+          "r266-tech"
+        ]
+      },
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars_total": 31267,
+        "forks_total": 1960,
+        "stars_period": 19109,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ]
+      },
+      {
+        "repo": "agent-substrate/substrate",
+        "url": "https://github.com/agent-substrate/substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars_total": 5533,
+        "forks_total": 605,
+        "stars_period": 3533,
+        "built_by": [
+          "BenTheElder",
+          "juli4n",
+          "HavenXia",
+          "thockin",
+          "zoez7"
+        ]
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars_total": 30851,
+        "forks_total": 2297,
+        "stars_period": 7319,
+        "built_by": [
+          "mksglu",
+          "github-actions",
+          "claude",
+          "ipedro",
+          "ousamabenyounes"
+        ]
+      },
+      {
+        "repo": "NVIDIA/OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars_total": 16649,
+        "forks_total": 1814,
+        "stars_period": 7995,
+        "built_by": [
+          "drew",
+          "johntmyers",
+          "pimlock",
+          "miyoungc",
+          "elezar"
+        ]
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars_total": 283465,
+        "forks_total": 42105,
+        "stars_period": 23080,
+        "built_by": [
+          "affaan-m",
+          "haelyra",
+          "claude",
+          "montjeffrey",
+          "dependabot"
+        ]
+      },
+      {
+        "repo": "tashfeenahmed/freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "language": "TypeScript",
+        "stars_total": 37211,
+        "forks_total": 5023,
+        "stars_period": 10063,
+        "built_by": [
+          "tashfeenahmed",
+          "claude",
+          "suantea",
+          "tashdroid",
+          "OhOkThisIsFine"
+        ]
+      },
+      {
+        "repo": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars_total": 30279,
+        "forks_total": 3426,
+        "stars_period": 5493,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mattpic-ant"
+        ]
+      },
+      {
+        "repo": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars_total": 91092,
+        "forks_total": 10195,
+        "stars_period": 12009,
+        "built_by": [
+          "ryanmkurtz",
+          "ghidra1",
+          "dragonmacher",
+          "nsadeveloper789",
+          "caheckman"
+        ]
+      },
+      {
+        "repo": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars_total": 12859,
+        "forks_total": 1265,
+        "stars_period": 4507,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "minupalaniappan",
+          "ericzakariasson",
+          "roshansada"
+        ]
+      },
+      {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars_total": 71141,
+        "forks_total": 12515,
+        "stars_period": 16300,
+        "built_by": [
+          "rohitg00",
+          "github-actions",
+          "abhinav-m22",
+          "thereisnotime",
+          "claude"
+        ]
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars_total": 42887,
+        "forks_total": 4544,
+        "stars_period": 6015,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mhegazy"
+        ]
+      },
+      {
+        "repo": "TencentCloud/Octop",
+        "url": "https://github.com/TencentCloud/Octop",
+        "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "language": "Python",
+        "stars_total": 9968,
+        "forks_total": 1279,
+        "stars_period": 6138,
+        "built_by": [
+          "jubaoliang-tencent",
+          "jubaoliang",
+          "cursoragent",
+          "Bosheng0422",
+          "liukewia"
+        ]
+      },
+      {
+        "repo": "trycua/cua",
+        "url": "https://github.com/trycua/cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+        "language": "Rust",
+        "stars_total": 30174,
+        "forks_total": 2170,
+        "stars_period": 7211,
+        "built_by": [
+          "f-trycua",
+          "claude",
+          "ddupont808",
+          "github-actions",
+          "r33drichards"
+        ]
+      },
+      {
+        "repo": "longbridge/gpui-kit",
+        "url": "https://github.com/longbridge/gpui-kit",
+        "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+        "language": "Rust",
+        "stars_total": 18174,
+        "forks_total": 1104,
+        "stars_period": 3632,
+        "built_by": [
+          "huacnlee",
+          "madcodelife",
+          "claude",
+          "codex",
+          "ylinwind"
+        ]
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": null,
+        "language": "TypeScript",
+        "stars_total": 28433,
+        "forks_total": 7593,
+        "stars_period": 5415,
+        "built_by": [
+          "juliusmarminge",
+          "claude",
+          "t3dotgg",
+          "codex",
+          "maria-rcks"
+        ]
+      }
+    ]
+  }
+}

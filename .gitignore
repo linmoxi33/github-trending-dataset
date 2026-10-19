@@ -1,0 +1,15 @@
+# Data only — no build artifacts, no local environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local overrides that must never reach the repository.
+.env
+*.local.json
+
+# Editor noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

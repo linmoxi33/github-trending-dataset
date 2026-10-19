@@ -1,0 +1,71 @@
+name: Daily Trending Snapshot
+
+on:
+  schedule:
+    # 23:50 UTC = 07:50 Asia/Shanghai, right before the CET/BJT workday starts
+    - cron: "50 23 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Override the snapshot date (YYYY-MM-DD)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-trending
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Fetch trending
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            python scripts/fetch_trending.py --date "${{ inputs.date }}"
+          else
+            python scripts/fetch_trending.py
+          fi
+
+      - name: Find gaps
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/build_index.py --min-stars 100 --max-pages 10 || true
+          python scripts/find_gaps.py --min-score 30
+
+      - name: Refresh README
+        run: python scripts/render_readme.py
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          STAMP=$(date -u +%Y-%m-%dT%H:%MZ)
+          git commit -m "data: snapshot ${STAMP}"
+          git push
+
+      - name: Open issue when a high-score gap appears
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/notify_issue.py --threshold 80
