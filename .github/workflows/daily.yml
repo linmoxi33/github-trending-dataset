@@ -43,9 +43,19 @@ jobs:
           fi
 
       - name: Refresh awesome-list index
+        id: index
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/build_index.py --min-stars 100
+        # A partial crawl must never block the snapshot: find_gaps falls back to
+        # the index already committed to the repo.
+        continue-on-error: true
+        run: python scripts/build_index.py --min-stars 100 --refresh-days 30
+
+      - name: Revert a partial index rebuild
+        if: steps.index.outcome == 'failure'
+        run: |
+          echo "index refresh failed, keeping the committed copy"
+          git checkout -- data/awesome_index.json || true
 
       - name: Find gaps
         run: python scripts/find_gaps.py --min-score 45
