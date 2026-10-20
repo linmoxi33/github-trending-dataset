@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-19` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-20` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +2,232 | 54,959 |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1,175 | 43,016 |
-| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,414 | 217,088 |
-| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +350 | 12,919 |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +513 | 76,801 |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3,856 | 57,483 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,311 | 217,879 |
+| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +666 | 11,403 |
+| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1,011 | 139,792 |
+| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +564 | 77,223 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 81.7 | `sandboxes` | 0 | — | `context-mode`, `cua` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 79.9 | `cloning` | 0 | — | `VoiceStudio` |
-| 79.9 | `voice-clone` | 0 | — | `VoiceStudio` |
-| 79.9 | `dubbing` | 0 | — | `VoiceStudio` |
+| 80.0 | `voice-clone` | 0 | — | `VoiceStudio` |
+| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
+| 80.0 | `dubbing` | 0 | — | `VoiceStudio` |
+| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
