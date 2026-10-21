@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-20` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-21` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3,856 | 57,483 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1,311 | 217,879 |
-| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +666 | 11,403 |
-| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1,011 | 139,792 |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +564 | 77,223 |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3,861 | 60,760 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +1,712 | 34,343 |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1,565 | 99,821 |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1,208 | 169,797 |
+| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1,206 | 140,822 |
 
 ### Coverage gaps
 
@@ -174,9 +174,9 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 |---:|---|---:|---:|---|
 | 80.0 | `binaries` | 0 | — | `rea` |
 | 80.0 | `voice-clone` | 0 | — | `VoiceStudio` |
+| 80.0 | `dictation` | 0 | — | `VoiceStudio` |
 | 80.0 | `cloning` | 0 | — | `VoiceStudio` |
-| 80.0 | `dubbing` | 0 | — | `VoiceStudio` |
-| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
+| 80.0 | `transcription` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
