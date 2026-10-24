@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-23` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-24` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [php/php-src](https://github.com/php/php-src) | C | +287 | 41,194 |
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +303 | 31,652 |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1,948 | 173,577 |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,979 | 39,677 |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1,408 | 133,018 |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,716 | 42,222 |
+| 2 | [php/php-src](https://github.com/php/php-src) | C | +716 | 41,573 |
+| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +635 | 32,249 |
+| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1,119 | 18,831 |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 | 6,892 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
+| 85.0 | `cloning` | 0 | — | `VoxCPM`, `VoiceStudio` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
 | 80.0 | `voice-clone` | 0 | — | `VoiceStudio` |
-| 80.0 | `dubbing` | 0 | — | `VoiceStudio` |
 | 80.0 | `transcription` | 0 | — | `VoiceStudio` |
+| 80.0 | `dictation` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
