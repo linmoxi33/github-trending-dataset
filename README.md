@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-25` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-26` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,264 | 44,649 |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +896 | 19,493 |
-| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 | 3,141 |
-| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 | 32,187 |
-| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +392 | 44,582 |
+| 1 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +675 | 4,929 |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1,317 | 33,888 |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1,592 | 86,923 |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1,092 | 87,757 |
+| 5 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +647 | 11,691 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 80.0 | `binaries` | 0 | — | `rea` |
-| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
+| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
 | 80.0 | `transcription` | 0 | — | `VoiceStudio` |
 | 80.0 | `dubbing` | 0 | — | `VoiceStudio` |
-| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
+| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
+| 80.0 | `dictation` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
