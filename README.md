@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-27` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-28` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2,244 | 36,559 |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1,395 | 116,232 |
-| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,173 | 3,006 |
-| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1,296 | 6,588 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +896 | 289,917 |
+| 1 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | +1,395 | 9,561 |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2,830 | 39,160 |
+| 3 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +777 | 2,535 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +617 | 306,510 |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1,449 | 90,690 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 81.8 | `opencode` | 1 | awesome-opencode/awesome-opencode (10,650) | `ECC`, `agents` |
-| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
-| 80.0 | `dubbing` | 0 | — | `VoiceStudio` |
-| 80.0 | `transcription` | 0 | — | `VoiceStudio` |
-| 80.0 | `voice-clone` | 0 | — | `VoiceStudio` |
+| 80.0 | `independently` | 0 | — | `security-audit-skill` |
+| 80.0 | `verified` | 0 | — | `security-audit-skill` |
+| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
+| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
