@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-28` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-29` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | +1,395 | 9,561 |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2,830 | 39,160 |
-| 3 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +777 | 2,535 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +617 | 306,510 |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1,449 | 90,690 |
+| 1 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,068 | 5,187 |
+| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | +2,139 | 11,259 |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,095 | 307,529 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +2,371 | 48,199 |
+| 5 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | +117 | 5,466 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 80.0 | `independently` | 0 | — | `security-audit-skill` |
-| 80.0 | `verified` | 0 | — | `security-audit-skill` |
-| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
+| 81.0 | `coding-agent` | 2 | — | `impeccable`, `taste-skill` |
 | 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
-| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
+| 80.0 | `verified` | 0 | — | `security-audit-skill` |
+| 80.0 | `independently` | 0 | — | `security-audit-skill` |
+| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
