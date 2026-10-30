@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-29` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-30` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,068 | 5,187 |
-| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | +2,139 | 11,259 |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,095 | 307,529 |
-| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +2,371 | 48,199 |
-| 5 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | +117 | 5,466 |
+| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1,930 | 50,343 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,034 | 308,666 |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2,870 | 95,567 |
+| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,117 | 6,078 |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,199 | 7,568 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 81.0 | `coding-agent` | 2 | — | `impeccable`, `taste-skill` |
-| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
 | 80.0 | `verified` | 0 | — | `security-audit-skill` |
-| 80.0 | `independently` | 0 | — | `security-audit-skill` |
 | 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
+| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 80.0 | `independently` | 0 | — | `security-audit-skill` |
+| 80.0 | `persistent` | 0 | — | `openbot`, `claude-mem` |
 
 <!-- TRENDING:END -->
 
