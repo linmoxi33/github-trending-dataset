@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-10-30` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-10-31` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1,930 | 50,343 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,034 | 308,666 |
-| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2,870 | 95,567 |
-| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1,117 | 6,078 |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,199 | 7,568 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,140 | 106,376 |
+| 2 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +895 | 8,741 |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2,300 | 97,167 |
+| 4 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +706 | 8,843 |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +1,126 | 11,305 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 80.0 | `verified` | 0 | — | `security-audit-skill` |
-| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
-| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 81.8 | `persistent` | 0 | — | `claude-mem`, `openrig` |
 | 80.0 | `independently` | 0 | — | `security-audit-skill` |
-| 80.0 | `persistent` | 0 | — | `openbot`, `claude-mem` |
+| 80.0 | `verified` | 0 | — | `security-audit-skill` |
+| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
