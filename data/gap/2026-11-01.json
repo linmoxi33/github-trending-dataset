@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T02:42:17+00:00",
+  "min_score": 45.0,
+  "candidates": [
+    {
+      "domain": "persistent",
+      "score": 83.2,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.2,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "thedotmack/claude-mem",
+        "mvschwarz/openrig"
+      ]
+    },
+    {
+      "domain": "opencode",
+      "score": 83.0,
+      "breakdown": {
+        "crowding": 28.0,
+        "momentum": 40.0,
+        "spread": 15.0
+      },
+      "existing_lists": 1,
+      "existing_top_stars": 10650,
+      "existing_top_repo": "awesome-opencode/awesome-opencode",
+      "witnesses": [
+        "thedotmack/claude-mem",
+        "Orkas-AI/Orkas",
+        "affaan-m/ECC"
+      ]
+    },
+    {
+      "domain": "machine-readable",
+      "score": 80.0,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 40.0,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "multi-phase",
+      "score": 80.0,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 40.0,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "independently",
+      "score": 80.0,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 40.0,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "verified",
+      "score": 80.0,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 40.0,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "bolder",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "catch",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "critique",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "steer",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "slop",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "audiobook",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "dubbing",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "voice-clone",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "cloning",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "dictation",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "transcription",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "research-first",
+      "score": 78.7,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.7,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "affaan-m/ECC"
+      ]
+    },
+    {
+      "domain": "instincts",
+      "score": 78.7,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.7,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "affaan-m/ECC"
+      ]
+    },
+    {
+      "domain": "anti-ai-slop",
+      "score": 78.4,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.4,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "Nutlope/hallmark"
+      ]
+    }
+  ],
+  "total_topics_seen": 209
+}
