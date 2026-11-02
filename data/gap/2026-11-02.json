@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T02:49:36+00:00",
+  "min_score": 45.0,
+  "candidates": [
+    {
+      "domain": "dictation",
+      "score": 85.0,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 40.0,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "anomalyco/hex",
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "verified",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "independently",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "machine-readable",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "multi-phase",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "voice-clone",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "transcription",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "cloning",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "audiobook",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "dubbing",
+      "score": 79.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "debpalash/VoiceStudio"
+      ]
+    },
+    {
+      "domain": "critique",
+      "score": 79.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "catch",
+      "score": 79.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "steer",
+      "score": 79.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "bolder",
+      "score": 79.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "slop",
+      "score": 79.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "anti-ai-slop",
+      "score": 78.4,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.4,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "Nutlope/hallmark"
+      ]
+    },
+    {
+      "domain": "captures",
+      "score": 77.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "thedotmack/claude-mem"
+      ]
+    },
+    {
+      "domain": "sessions",
+      "score": 77.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "thedotmack/claude-mem"
+      ]
+    },
+    {
+      "domain": "persistent",
+      "score": 77.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "thedotmack/claude-mem"
+      ]
+    },
+    {
+      "domain": "relevant",
+      "score": 77.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "thedotmack/claude-mem"
+      ]
+    }
+  ],
+  "total_topics_seen": 235
+}

@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-01` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-02` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,723 | 107,963 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +883 | 308,479 |
-| 3 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +742 | 31,232 |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +1,148 | 35,731 |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +1,092 | 12,335 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,526 | 109,459 |
+| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +825 | 40,276 |
+| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +630 | 45,464 |
+| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3,094 | 38,290 |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +922 | 10,648 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 83.2 | `persistent` | 0 | — | `claude-mem`, `openrig` |
-| 83.0 | `opencode` | 1 | awesome-opencode/awesome-opencode (10,650) | `claude-mem`, `Orkas` |
-| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
-| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
-| 80.0 | `independently` | 0 | — | `security-audit-skill` |
+| 85.0 | `dictation` | 0 | — | `hex`, `VoiceStudio` |
+| 79.8 | `verified` | 0 | — | `security-audit-skill` |
+| 79.8 | `independently` | 0 | — | `security-audit-skill` |
+| 79.8 | `machine-readable` | 0 | — | `security-audit-skill` |
+| 79.8 | `multi-phase` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
