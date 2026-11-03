@@ -1,0 +1,786 @@
+{
+  "date": "2026-11-03",
+  "captured_at": "2026-11-03T04:05:52+00:00",
+  "source": "https://github.com/trending",
+  "lists": {
+    "daily": [
+      {
+        "repo": "vercel-labs/agent-desktop",
+        "url": "https://github.com/vercel-labs/agent-desktop",
+        "description": "Computer use CLI for AI agents",
+        "language": "Rust",
+        "stars_total": 10332,
+        "forks_total": 693,
+        "stars_period": 2275,
+        "built_by": [
+          "lahfir",
+          "github-actions",
+          "detail-app",
+          "dependabot",
+          "ctate"
+        ]
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars_total": 110917,
+        "forks_total": 9668,
+        "stars_period": 1803,
+        "built_by": [
+          "thedotmack",
+          "claude",
+          "rudycelekli",
+          "cursoragent",
+          "rodboev"
+        ]
+      },
+      {
+        "repo": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "language": "Python",
+        "stars_total": 93162,
+        "forks_total": 9799,
+        "stars_period": 706,
+        "built_by": [
+          "D4Vinci",
+          "yetval",
+          "AbdullahY36",
+          "SulimanAbdulrazzaq",
+          "codex"
+        ]
+      },
+      {
+        "repo": "hyprwm/Hyprland",
+        "url": "https://github.com/hyprwm/Hyprland",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "language": "C++",
+        "stars_total": 40013,
+        "forks_total": 2158,
+        "stars_period": 509,
+        "built_by": [
+          "vaxerski",
+          "fufexan",
+          "gulafaran",
+          "MightyPlaza",
+          "UjinT34"
+        ]
+      },
+      {
+        "repo": "Donchitos/Claude-Code-Game-Studios",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "language": "Shell",
+        "stars_total": 33741,
+        "forks_total": 4531,
+        "stars_period": 1379,
+        "built_by": [
+          "Donchitos",
+          "claude"
+        ]
+      },
+      {
+        "repo": "FlashML-org/FreeToken",
+        "url": "https://github.com/FlashML-org/FreeToken",
+        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "language": "Python",
+        "stars_total": 16188,
+        "forks_total": 1592,
+        "stars_period": 653,
+        "built_by": [
+          "jason-fxz",
+          "andy-yang-1",
+          "void-mckenzie",
+          "taking-lying-flat",
+          "zihaomu"
+        ]
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": null,
+        "language": "TypeScript",
+        "stars_total": 42298,
+        "forks_total": 9122,
+        "stars_period": 3229,
+        "built_by": [
+          "juliusmarminge",
+          "claude",
+          "t3dotgg",
+          "maria-rcks",
+          "codex"
+        ]
+      },
+      {
+        "repo": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars_total": 46068,
+        "forks_total": 7593,
+        "stars_period": 857,
+        "built_by": [
+          "shiyu-coder",
+          "Luciferbobo",
+          "CharlesJ-ABu",
+          "AnMakc",
+          "randyy179"
+        ]
+      },
+      {
+        "repo": "kornia/kornia",
+        "url": "https://github.com/kornia/kornia",
+        "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+        "language": "Python",
+        "stars_total": 12180,
+        "forks_total": 1493,
+        "stars_period": 412,
+        "built_by": [
+          "edgarriba",
+          "ducha-aiki",
+          "pre-commit-ci",
+          "claude",
+          "johnnv1"
+        ]
+      },
+      {
+        "repo": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "language": "C",
+        "stars_total": 46678,
+        "forks_total": 5389,
+        "stars_period": 675,
+        "built_by": [
+          "JustVugg",
+          "claude",
+          "ZacharyZcR",
+          "monotophic",
+          "rudycelekli"
+        ]
+      },
+      {
+        "repo": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars_total": 310382,
+        "forks_total": 26108,
+        "stars_period": 858,
+        "built_by": [
+          "mattpocock",
+          "claude",
+          "github-actions",
+          "gabimoncha"
+        ]
+      },
+      {
+        "repo": "max-sixty/worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "stars_total": 10108,
+        "forks_total": 366,
+        "stars_period": 77,
+        "built_by": [
+          "max-sixty",
+          "claude",
+          "worktrunk-bot",
+          "dependabot",
+          "github-actions"
+        ]
+      },
+      {
+        "repo": "paperclipai/paperclip",
+        "url": "https://github.com/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars_total": 110499,
+        "forks_total": 18290,
+        "stars_period": 412,
+        "built_by": [
+          "cryppadotta",
+          "Paperclip-Paperclip",
+          "devinfoley",
+          "claude",
+          "nickyleach"
+        ]
+      },
+      {
+        "repo": "karpathy/nanochat",
+        "url": "https://github.com/karpathy/nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "stars_total": 59976,
+        "forks_total": 8416,
+        "stars_period": 321,
+        "built_by": [
+          "karpathy",
+          "svlandeg",
+          "claude",
+          "suraj-self",
+          "lukestanley"
+        ]
+      },
+      {
+        "repo": "p-e-w/heretic",
+        "url": "https://github.com/p-e-w/heretic",
+        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "language": "Python",
+        "stars_total": 38186,
+        "forks_total": 4329,
+        "stars_period": 420,
+        "built_by": [
+          "p-e-w",
+          "dependabot",
+          "Vinay-Umrethe",
+          "anrp",
+          "spikymoth"
+        ]
+      }
+    ],
+    "weekly": [
+      {
+        "repo": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars_total": 46142,
+        "forks_total": 2447,
+        "stars_period": 10517,
+        "built_by": [
+          "Luffixos",
+          "Nutlope",
+          "xunguangzlj-cloud",
+          "claude",
+          "riccardogiorato"
+        ]
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars_total": 110917,
+        "forks_total": 9668,
+        "stars_period": 7255,
+        "built_by": [
+          "thedotmack",
+          "claude",
+          "rudycelekli",
+          "cursoragent",
+          "rodboev"
+        ]
+      },
+      {
+        "repo": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars_total": 100644,
+        "forks_total": 5942,
+        "stars_period": 11754,
+        "built_by": [
+          "pbakaus",
+          "claude",
+          "github-actions",
+          "abdulwahabone",
+          "cursoragent"
+        ]
+      },
+      {
+        "repo": "AgriciDaniel/claude-seo",
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "language": "Python",
+        "stars_total": 26038,
+        "forks_total": 3402,
+        "stars_period": 4091,
+        "built_by": [
+          "AgriciDaniel",
+          "claude",
+          "Nordalux",
+          "dependabot",
+          "codex"
+        ]
+      },
+      {
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_total": 311327,
+        "forks_total": 27704,
+        "stars_period": 5956,
+        "built_by": [
+          "obra",
+          "arittr",
+          "claude",
+          "clkao",
+          "arimu1"
+        ]
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": null,
+        "language": "TypeScript",
+        "stars_total": 42298,
+        "forks_total": 9122,
+        "stars_period": 9770,
+        "built_by": [
+          "juliusmarminge",
+          "claude",
+          "t3dotgg",
+          "maria-rcks",
+          "codex"
+        ]
+      },
+      {
+        "repo": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "stars_total": 7214,
+        "forks_total": 422,
+        "stars_period": 4812,
+        "built_by": [
+          "rsolmano",
+          "danyaberezun",
+          "OLavrik",
+          "claude",
+          "Mark-Life"
+        ]
+      },
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars_total": 57521,
+        "forks_total": 3740,
+        "stars_period": 9155,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ]
+      },
+      {
+        "repo": "jakubkrehel/skills",
+        "url": "https://github.com/jakubkrehel/skills",
+        "description": "A collection of agent skills that help you build great interfaces.",
+        "language": "Markdown",
+        "stars_total": 10400,
+        "forks_total": 401,
+        "stars_period": 1707,
+        "built_by": [
+          "jakubkrehel",
+          "claude"
+        ]
+      },
+      {
+        "repo": "multica-ai/andrej-karpathy-skills",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": null,
+        "stars_total": 228611,
+        "forks_total": 22793,
+        "stars_period": 4397,
+        "built_by": [
+          "forrestchang",
+          "claude",
+          "back1ply",
+          "herobrine19",
+          "szkocot"
+        ]
+      },
+      {
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars_total": 186825,
+        "forks_total": 22065,
+        "stars_period": 2828,
+        "built_by": [
+          "rlancemartin",
+          "klazuka",
+          "claude",
+          "cj-ant",
+          "ericharmeling"
+        ]
+      },
+      {
+        "repo": "Leonxlnx/taste-skill",
+        "url": "https://github.com/Leonxlnx/taste-skill",
+        "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "language": "JavaScript",
+        "stars_total": 108876,
+        "forks_total": 7328,
+        "stars_period": 5729,
+        "built_by": [
+          "Leonxlnx",
+          "cursoragent",
+          "claude",
+          "HugoSpy",
+          "flexi767"
+        ]
+      },
+      {
+        "repo": "TauricResearch/TradingAgents",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars_total": 120024,
+        "forks_total": 22954,
+        "stars_period": 4603,
+        "built_by": [
+          "Yijia-Xiao",
+          "EdwardoSunny",
+          "CadeYu",
+          "luohy15",
+          "claude"
+        ]
+      },
+      {
+        "repo": "ghostty-org/ghostty",
+        "url": "https://github.com/ghostty-org/ghostty",
+        "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "language": "Zig",
+        "stars_total": 63330,
+        "forks_total": 3810,
+        "stars_period": 687,
+        "built_by": [
+          "mitchellh",
+          "jcollie",
+          "qwerasd205",
+          "github-actions",
+          "ghostty-vouch"
+        ]
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars_total": 295763,
+        "forks_total": 43759,
+        "stars_period": 6201,
+        "built_by": [
+          "affaan-m",
+          "haelyra",
+          "claude",
+          "montjeffrey",
+          "dependabot"
+        ]
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_total": 77824,
+        "forks_total": 7155,
+        "stars_period": 4924,
+        "built_by": [
+          "miguel-heygen",
+          "vanceingalls",
+          "jrusso1020",
+          "claude",
+          "ukimsanov"
+        ]
+      }
+    ],
+    "monthly": [
+      {
+        "repo": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars_total": 423551,
+        "forks_total": 105592,
+        "stars_period": 422104,
+        "built_by": [
+          "morluto",
+          "kaoru0822-kitauji",
+          "N0zoM1z0",
+          "claude",
+          "gensokyo-dev"
+        ]
+      },
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars_total": 57521,
+        "forks_total": 3740,
+        "stars_period": 33474,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ]
+      },
+      {
+        "repo": "tester-army/e2e",
+        "url": "https://github.com/tester-army/e2e",
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "stars_total": 12669,
+        "forks_total": 654,
+        "stars_period": 11344,
+        "built_by": [
+          "okwasniewski",
+          "kacperkapusciak",
+          "claude",
+          "rudycelekli",
+          "KrzysztofMoch"
+        ]
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_total": 77824,
+        "forks_total": 7155,
+        "stars_period": 22290,
+        "built_by": [
+          "miguel-heygen",
+          "vanceingalls",
+          "jrusso1020",
+          "claude",
+          "ukimsanov"
+        ]
+      },
+      {
+        "repo": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars_total": 46142,
+        "forks_total": 2447,
+        "stars_period": 16306,
+        "built_by": [
+          "Luffixos",
+          "Nutlope",
+          "xunguangzlj-cloud",
+          "claude",
+          "riccardogiorato"
+        ]
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars_total": 99221,
+        "forks_total": 11005,
+        "stars_period": 47605,
+        "built_by": [
+          "debpalash",
+          "claude",
+          "velixio",
+          "kevin9327",
+          "jaketame"
+        ]
+      },
+      {
+        "repo": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars_total": 34505,
+        "forks_total": 3819,
+        "stars_period": 8614,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mattpic-ant"
+        ]
+      },
+      {
+        "repo": "ranxianglei/billion-context",
+        "url": "https://github.com/ranxianglei/billion-context",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "language": "TypeScript",
+        "stars_total": 3743,
+        "forks_total": 311,
+        "stars_period": 3213,
+        "built_by": [
+          "ranxianglei",
+          "github-actions",
+          "YunzhouLi-hub",
+          "z0d0dOr",
+          "yanhuojiyusheng"
+        ]
+      },
+      {
+        "repo": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars_total": 97245,
+        "forks_total": 11009,
+        "stars_period": 17043,
+        "built_by": [
+          "ryanmkurtz",
+          "ghidra1",
+          "dragonmacher",
+          "nsadeveloper789",
+          "caheckman"
+        ]
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars_total": 110917,
+        "forks_total": 9668,
+        "stars_period": 15681,
+        "built_by": [
+          "thedotmack",
+          "claude",
+          "rudycelekli",
+          "cursoragent",
+          "rodboev"
+        ]
+      },
+      {
+        "repo": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars_total": 100644,
+        "forks_total": 5942,
+        "stars_period": 26586,
+        "built_by": [
+          "pbakaus",
+          "claude",
+          "github-actions",
+          "abdulwahabone",
+          "cursoragent"
+        ]
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": null,
+        "language": "TypeScript",
+        "stars_total": 42298,
+        "forks_total": 9122,
+        "stars_period": 15731,
+        "built_by": [
+          "juliusmarminge",
+          "claude",
+          "t3dotgg",
+          "maria-rcks",
+          "codex"
+        ]
+      },
+      {
+        "repo": "earthtojake/text-to-cad",
+        "url": "https://github.com/earthtojake/text-to-cad",
+        "description": "Design physical products with AI",
+        "language": "Python",
+        "stars_total": 25056,
+        "forks_total": 2388,
+        "stars_period": 8535,
+        "built_by": [
+          "earthtojake",
+          "claude",
+          "github-actions",
+          "warun7",
+          "dependabot"
+        ]
+      },
+      {
+        "repo": "michael-denyer/pstack-claude",
+        "url": "https://github.com/michael-denyer/pstack-claude",
+        "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+        "language": "TypeScript",
+        "stars_total": 3812,
+        "forks_total": 346,
+        "stars_period": 3018,
+        "built_by": [
+          "michael-denyer",
+          "EthanYoQ",
+          "claude",
+          "younes-io",
+          "harrymunro"
+        ]
+      },
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars_total": 45870,
+        "forks_total": 4776,
+        "stars_period": 8715,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "mhegazy",
+          "claude"
+        ]
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+        "language": "TypeScript",
+        "stars_total": 33305,
+        "forks_total": 2295,
+        "stars_period": 8531,
+        "built_by": [
+          "mksglu",
+          "github-actions",
+          "claude",
+          "ipedro",
+          "ousamabenyounes"
+        ]
+      },
+      {
+        "repo": "tashfeenahmed/freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "language": "TypeScript",
+        "stars_total": 46494,
+        "forks_total": 6347,
+        "stars_period": 16329,
+        "built_by": [
+          "tashfeenahmed",
+          "claude",
+          "suantea",
+          "tashdroid",
+          "OhOkThisIsFine"
+        ]
+      },
+      {
+        "repo": "Leonxlnx/taste-skill",
+        "url": "https://github.com/Leonxlnx/taste-skill",
+        "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "language": "JavaScript",
+        "stars_total": 108876,
+        "forks_total": 7328,
+        "stars_period": 16952,
+        "built_by": [
+          "Leonxlnx",
+          "cursoragent",
+          "claude",
+          "HugoSpy",
+          "flexi767"
+        ]
+      }
+    ]
+  }
+}

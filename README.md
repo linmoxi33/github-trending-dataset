@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-02` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-03` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,526 | 109,459 |
-| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +825 | 40,276 |
-| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +630 | 45,464 |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3,094 | 38,290 |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +922 | 10,648 |
+| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,275 | 10,332 |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,803 | 110,917 |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +706 | 93,162 |
+| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +509 | 40,013 |
+| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +1,379 | 33,741 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 85.0 | `dictation` | 0 | — | `hex`, `VoiceStudio` |
-| 79.8 | `verified` | 0 | — | `security-audit-skill` |
-| 79.8 | `independently` | 0 | — | `security-audit-skill` |
+| 88.0 | `opencode` | 1 | awesome-opencode/awesome-opencode (10,846) | `claude-mem`, `ECC` |
+| 84.6 | `slop` | 0 | — | `heretic`, `impeccable` |
+| 83.7 | `sessions` | 0 | — | `claude-mem`, `billion-context` |
+| 80.0 | `binaries` | 0 | — | `rea` |
 | 79.8 | `machine-readable` | 0 | — | `security-audit-skill` |
-| 79.8 | `multi-phase` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
