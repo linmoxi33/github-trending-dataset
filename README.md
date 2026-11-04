@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-03` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-04` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2,275 | 10,332 |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,803 | 110,917 |
-| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +706 | 93,162 |
-| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +509 | 40,013 |
-| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +1,379 | 33,741 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,139 | 112,051 |
+| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +3,791 | 13,075 |
+| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +438 | 10,573 |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +802 | 47,316 |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,164 | 311,613 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 88.0 | `opencode` | 1 | awesome-opencode/awesome-opencode (10,846) | `claude-mem`, `ECC` |
-| 84.6 | `slop` | 0 | — | `heretic`, `impeccable` |
+| 88.0 | `opencode` | 1 | awesome-opencode/awesome-opencode (10,855) | `claude-mem`, `ECC` |
+| 85.0 | `dictation` | 0 | — | `hex`, `VoiceStudio` |
+| 84.7 | `slop` | 0 | — | `heretic`, `impeccable` |
 | 83.7 | `sessions` | 0 | — | `claude-mem`, `billion-context` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 79.8 | `machine-readable` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
