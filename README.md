@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-04` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-05` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,139 | 112,051 |
-| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +3,791 | 13,075 |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +438 | 10,573 |
-| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +802 | 47,316 |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,164 | 311,613 |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 | 5,403 |
+| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +531 | 11,120 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,379 | 313,528 |
+| 4 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +1,090 | 29,720 |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,172 | 112,974 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 88.0 | `opencode` | 1 | awesome-opencode/awesome-opencode (10,855) | `claude-mem`, `ECC` |
-| 85.0 | `dictation` | 0 | — | `hex`, `VoiceStudio` |
-| 84.7 | `slop` | 0 | — | `heretic`, `impeccable` |
-| 83.7 | `sessions` | 0 | — | `claude-mem`, `billion-context` |
 | 80.0 | `binaries` | 0 | — | `rea` |
+| 79.9 | `dubbing` | 0 | — | `VoiceStudio` |
+| 79.9 | `dictation` | 0 | — | `VoiceStudio` |
+| 79.9 | `voice-clone` | 0 | — | `VoiceStudio` |
+| 79.9 | `transcription` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
