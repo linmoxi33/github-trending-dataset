@@ -4,7 +4,7 @@
 
 GitHub's Trending page only ever shows the current moment. Once midnight UTC rolls over, yesterday's ranking is gone: there is no built-in way to ask "what was trending the week that project launched?" This repository keeps every day.
 
-Updated automatically at **23:50 UTC** by GitHub Actions. No bot accounts, no scraped star counts, no invented numbers — just the three public lists, parsed and stored.
+Scheduled at **23:50 UTC** by GitHub Actions; GitHub's scheduler often starts the job a few hours later, so every snapshot records its own `captured_at` (today's ran at 03:44 UTC). No bot accounts, no scraped star counts, no invented numbers — just the three public lists, parsed and stored.
 
 ---
 
