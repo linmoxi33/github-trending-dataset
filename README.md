@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-05` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-06` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,050 | 5,403 |
-| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +531 | 11,120 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,379 | 313,528 |
-| 4 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +1,090 | 29,720 |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1,172 | 112,974 |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,679 | 7,601 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2,071 | 315,479 |
+| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +612 | 140,034 |
+| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +240 | 17,757 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1,655 | 98,156 |
 
 ### Coverage gaps
 
@@ -172,8 +172,8 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
+| 83.0 | `https` | 0 | — | `Scrapling`, `DeepTutor` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 79.9 | `dubbing` | 0 | — | `VoiceStudio` |
 | 79.9 | `dictation` | 0 | — | `VoiceStudio` |
 | 79.9 | `voice-clone` | 0 | — | `VoiceStudio` |
 | 79.9 | `transcription` | 0 | — | `VoiceStudio` |
