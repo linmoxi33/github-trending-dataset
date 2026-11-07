@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-06` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-07` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,679 | 7,601 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2,071 | 315,479 |
-| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +612 | 140,034 |
-| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +240 | 17,757 |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1,655 | 98,156 |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 | 93,711 |
+| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,015 | 9,169 |
+| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | +142 | 59,040 |
+| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | +37 | 37,899 |
+| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 | 121,482 |
 
 ### Coverage gaps
 
@@ -172,9 +172,9 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 83.0 | `https` | 0 | — | `Scrapling`, `DeepTutor` |
+| 83.6 | `https` | 0 | — | `DeepTutor`, `Scrapling` |
+| 83.5 | `persistent` | 0 | — | `claude-mem`, `openbot` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 79.9 | `dictation` | 0 | — | `VoiceStudio` |
 | 79.9 | `voice-clone` | 0 | — | `VoiceStudio` |
 | 79.9 | `transcription` | 0 | — | `VoiceStudio` |
 
