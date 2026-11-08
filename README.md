@@ -4,7 +4,7 @@
 
 GitHub's Trending page only ever shows the current moment. Once midnight UTC rolls over, yesterday's ranking is gone: there is no built-in way to ask "what was trending the week that project launched?" This repository keeps every day.
 
-Scheduled at **23:50 UTC** by GitHub Actions; GitHub's scheduler often starts the job a few hours later, so every snapshot records its own `captured_at` (today's ran at 03:44 UTC). No bot accounts, no scraped star counts, no invented numbers — just the three public lists, parsed and stored.
+Scheduled at **23:50 UTC** by GitHub Actions; GitHub's scheduler often starts the job a few hours later, so every snapshot records its own `captured_at` (the 2026-11-08 snapshot ran at 02:45 UTC). No bot accounts, no scraped star counts, no invented numbers — just the three public lists, parsed and stored.
 
 ---
 
@@ -24,18 +24,18 @@ Scheduled at **23:50 UTC** by GitHub Actions; GitHub's scheduler often starts th
 ```jsonc
 {
   "date": "2026-10-19",
-  "captured_at": "2026-10-19T06:17:02+00:00",
+  "captured_at": "2026-10-19T10:16:16+00:00",
   "lists": {
     "daily": [
       {
-        "repo": "anomalyco/opencode",
-        "url": "https://github.com/anomalyco/opencode",
-        "description": "The open source coding agent.",
-        "language": "TypeScript",
-        "stars_total": 216871,
-        "forks_total": 12034,
-        "stars_period": 1414,      // stars gained inside the list window
-        "built_by": ["user1", "user2"]
+        "repo": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars_total": 54959,
+        "forks_total": 17706,
+        "stars_period": 2232,      // stars gained inside the list window
+        "built_by": ["claude", "MadsLorentzen", "ayobamiseun", "oscarbol09", "rudycelekli"]
       }
     ],
     "weekly":  [],
