@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-07` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-08` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 | 93,711 |
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2,015 | 9,169 |
-| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | +142 | 59,040 |
-| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | +37 | 37,899 |
-| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 | 121,482 |
+| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +190 | 46,895 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,085 | 65,829 |
+| 3 | [google/skills](https://github.com/google/skills) | Python | +443 | 23,450 |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,100 | 317,785 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +390 | 188,849 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 83.6 | `https` | 0 | — | `DeepTutor`, `Scrapling` |
-| 83.5 | `persistent` | 0 | — | `claude-mem`, `openbot` |
+| 83.0 | `sessions` | 0 | — | `billion-context`, `claude-mem` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 79.9 | `voice-clone` | 0 | — | `VoiceStudio` |
-| 79.9 | `transcription` | 0 | — | `VoiceStudio` |
+| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
+| 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
+| 80.0 | `voice-clone` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
