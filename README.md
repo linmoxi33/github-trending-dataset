@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-08` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-09` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +190 | 46,895 |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2,085 | 65,829 |
-| 3 | [google/skills](https://github.com/google/skills) | Python | +443 | 23,450 |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1,100 | 317,785 |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +390 | 188,849 |
+| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +2,373 | 104,054 |
+| 2 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | +345 | 891 |
+| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1,439 | 18,464 |
+| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +32 | 19,496 |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +815 | 47,732 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 83.0 | `sessions` | 0 | — | `billion-context`, `claude-mem` |
+| 82.9 | `sessions` | 0 | — | `billion-context`, `claude-mem` |
+| 82.9 | `https` | 0 | — | `Scrapling`, `DeepTutor` |
 | 80.0 | `binaries` | 0 | — | `rea` |
-| 80.0 | `cloning` | 0 | — | `VoiceStudio` |
+| 80.0 | `dictation` | 0 | — | `VoiceStudio` |
 | 80.0 | `audiobook` | 0 | — | `VoiceStudio` |
-| 80.0 | `voice-clone` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
