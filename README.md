@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-11` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-12` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3,108 | 23,163 |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1,679 | 192,435 |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +465 | 115,247 |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +531 | 20,544 |
-| 5 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +456 | 17,421 |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +2,776 | 25,310 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +278 | 70,500 |
+| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +159 | 1,910 |
+| 4 | [shadcn/improve](https://github.com/shadcn/improve) | — | +361 | 11,050 |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +787 | 116,065 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 85.0 | `dictation` | 0 | — | `hex`, `VoiceStudio` |
-| 83.2 | `sessions` | 0 | — | `billion-context`, `claude-mem` |
-| 82.9 | `https` | 0 | — | `Scrapling`, `DeepTutor` |
+| 87.6 | `https` | 0 | — | `codex-security`, `Scrapling` |
+| 81.0 | `coding-agent` | 2 | — | `agent-skills`, `herdr` |
+| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
 | 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
-| 80.0 | `independently` | 0 | — | `security-audit-skill` |
+| 80.0 | `verified` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
