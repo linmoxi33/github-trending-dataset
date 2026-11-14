@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-13` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-14` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +739 | 3,303 |
-| 2 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +643 | 12,551 |
-| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +63 | 96,034 |
-| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | +218 | 1,592 |
-| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +967 | 14,040 |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +215 | 50,735 |
+| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1,925 | 4,972 |
+| 3 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +751 | 13,191 |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +256 | 71,738 |
+| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +925 | 14,815 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 87.7 | `https` | 0 | — | `codex-security`, `Scrapling` |
-| 86.0 | `coding-agent` | 2 | — | `modern-web-guidance-src`, `qwen-code` |
-| 81.3 | `sessions` | 0 | — | `free-claude-code`, `claude-mem` |
+| 86.0 | `coding-agent` | 2 | — | `modern-web-guidance-src`, `chrome-devtools-mcp` |
+| 81.6 | `https` | 0 | — | `codex-security`, `DeepTutor` |
 | 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
 | 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 80.0 | `independently` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
