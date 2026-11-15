@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-14` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-15` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +215 | 50,735 |
-| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1,925 | 4,972 |
-| 3 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | +751 | 13,191 |
-| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +256 | 71,738 |
-| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +925 | 14,815 |
+| 1 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +408 | 11,215 |
+| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1,231 | 6,160 |
+| 3 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +553 | 4,890 |
+| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +664 | 56,359 |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +893 | 51,493 |
 
 ### Coverage gaps
 
@@ -173,10 +173,10 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
 | 86.0 | `coding-agent` | 2 | — | `modern-web-guidance-src`, `chrome-devtools-mcp` |
-| 81.6 | `https` | 0 | — | `codex-security`, `DeepTutor` |
-| 80.0 | `machine-readable` | 0 | — | `security-audit-skill` |
-| 80.0 | `multi-phase` | 0 | — | `security-audit-skill` |
-| 80.0 | `independently` | 0 | — | `security-audit-skill` |
+| 80.0 | `binaries` | 0 | — | `rea` |
+| 79.7 | `transcription` | 0 | — | `VoiceStudio` |
+| 79.7 | `voice-clone` | 0 | — | `VoiceStudio` |
+| 79.7 | `cloning` | 0 | — | `VoiceStudio` |
 
 <!-- TRENDING:END -->
 
