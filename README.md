@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-15` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-16` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +408 | 11,215 |
-| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1,231 | 6,160 |
-| 3 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +553 | 4,890 |
-| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +664 | 56,359 |
-| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +893 | 51,493 |
+| 1 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +988 | 26,382 |
+| 2 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +355 | 18,007 |
+| 3 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +247 | 9,380 |
+| 4 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +866 | 11,948 |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +717 | 57,077 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 86.0 | `coding-agent` | 2 | — | `modern-web-guidance-src`, `chrome-devtools-mcp` |
-| 80.0 | `binaries` | 0 | — | `rea` |
-| 79.7 | `transcription` | 0 | — | `VoiceStudio` |
-| 79.7 | `voice-clone` | 0 | — | `VoiceStudio` |
-| 79.7 | `cloning` | 0 | — | `VoiceStudio` |
+| 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `chrome-devtools-mcp` |
+| 79.5 | `independently` | 0 | — | `security-audit-skill` |
+| 79.5 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 79.5 | `machine-readable` | 0 | — | `security-audit-skill` |
+| 79.5 | `verified` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
