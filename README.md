@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-17` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-18` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +791 | 19,308 |
-| 2 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +696 | 12,711 |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1,828 | 27,950 |
-| 4 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +837 | 6,482 |
-| 5 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,094 | 7,638 |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,005 | 9,654 |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +696 | 69,265 |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +763 | 53,872 |
+| 4 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | +591 | 3,413 |
+| 5 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1,774 | 29,100 |
 
 ### Coverage gaps
 
@@ -172,11 +172,11 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
-| 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `chrome-devtools-mcp` |
-| 84.6 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
-| 82.0 | `https` | 0 | — | `codex-security`, `DeepTutor` |
-| 79.5 | `verified` | 0 | — | `security-audit-skill` |
-| 79.5 | `multi-phase` | 0 | — | `security-audit-skill` |
+| 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `modern-web-guidance-src` |
+| 82.1 | `https` | 0 | — | `codex-security`, `DeepTutor` |
+| 79.6 | `independently` | 0 | — | `security-audit-skill` |
+| 79.6 | `machine-readable` | 0 | — | `security-audit-skill` |
+| 79.6 | `multi-phase` | 0 | — | `security-audit-skill` |
 
 <!-- TRENDING:END -->
 
