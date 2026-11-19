@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-18` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-19` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,005 | 9,654 |
-| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +696 | 69,265 |
-| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +763 | 53,872 |
-| 4 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | +591 | 3,413 |
-| 5 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1,774 | 29,100 |
+| 1 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +314 | 17,289 |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +389 | 59,913 |
+| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1,059 | 70,175 |
+| 4 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Go | +547 | 9,889 |
+| 5 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +312 | 3,820 |
 
 ### Coverage gaps
 
@@ -172,9 +172,9 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
+| 87.3 | `https` | 0 | — | `CLI-Anything`, `codex-security` |
 | 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `modern-web-guidance-src` |
-| 82.1 | `https` | 0 | — | `codex-security`, `DeepTutor` |
-| 79.6 | `independently` | 0 | — | `security-audit-skill` |
+| 80.6 | `bring` | 0 | — | `ag-ui`, `univer` |
 | 79.6 | `machine-readable` | 0 | — | `security-audit-skill` |
 | 79.6 | `multi-phase` | 0 | — | `security-audit-skill` |
 
