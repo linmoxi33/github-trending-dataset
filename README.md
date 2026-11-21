@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-20` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-21` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,349 | 12,772 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2,028 | 322,215 |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +898 | 60,683 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +238 | 67,065 |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +384 | 17,602 |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,622 | 14,516 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +890 | 322,940 |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +773 | 61,483 |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +847 | 67,758 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +299 | 17,887 |
 
 ### Coverage gaps
 
@@ -174,9 +174,9 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 |---:|---|---:|---:|---|
 | 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `app-store-compliance` |
 | 85.0 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
-| 83.3 | `slop` | 0 | — | `diagram-design`, `impeccable` |
-| 82.0 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
-| 80.8 | `bring` | 0 | — | `ag-ui`, `univer` |
+| 83.4 | `slop` | 0 | — | `diagram-design`, `impeccable` |
+| 81.9 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
+| 81.0 | `bring` | 0 | — | `ag-ui`, `univer` |
 
 <!-- TRENDING:END -->
 
