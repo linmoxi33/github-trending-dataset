@@ -1,0 +1,315 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T03:34:23+00:00",
+  "min_score": 45.0,
+  "candidates": [
+    {
+      "domain": "coding-agent",
+      "score": 86.0,
+      "breakdown": {
+        "crowding": 21.0,
+        "momentum": 40.0,
+        "spread": 25.0
+      },
+      "existing_lists": 2,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "google-labs-code/stitch-skills",
+        "mjmirza/app-store-compliance",
+        "GoogleChrome/modern-web-guidance-src"
+      ]
+    },
+    {
+      "domain": "machine-readable",
+      "score": 85.0,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 40.0,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "kajisho5/ffmpeg-skill",
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "slop",
+      "score": 83.4,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.4,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cathrynlavery/diagram-design",
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "https",
+      "score": 81.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.9,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "HKUDS/CLI-Anything",
+        "HKUDS/DeepTutor"
+      ]
+    },
+    {
+      "domain": "bring",
+      "score": 80.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 35.9,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "ag-ui-protocol/ag-ui",
+        "dream-num/univer"
+      ]
+    },
+    {
+      "domain": "multi-phase",
+      "score": 79.3,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.3,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "independently",
+      "score": 79.3,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.3,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "verified",
+      "score": 79.3,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 39.3,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "cloudflare/security-audit-skill"
+      ]
+    },
+    {
+      "domain": "bolder",
+      "score": 78.2,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.2,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "catch",
+      "score": 78.2,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.2,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "critique",
+      "score": 78.2,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.2,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "steer",
+      "score": 78.2,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 38.2,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "pbakaus/impeccable"
+      ]
+    },
+    {
+      "domain": "reels",
+      "score": 78.1,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 33.1,
+        "spread": 10.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "zhouxiaoka/autoclip",
+        "Jakeschincariol/instagram-agent-skill"
+      ]
+    },
+    {
+      "domain": "anti-ai-slop",
+      "score": 77.9,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 37.9,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "Nutlope/hallmark"
+      ]
+    },
+    {
+      "domain": "username",
+      "score": 76.8,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.8,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "sherlock-project/sherlock"
+      ]
+    },
+    {
+      "domain": "tutoring",
+      "score": 76.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "HKUDS/DeepTutor"
+      ]
+    },
+    {
+      "domain": "deeptutor.info",
+      "score": 76.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "HKUDS/DeepTutor"
+      ]
+    },
+    {
+      "domain": "deeptutor",
+      "score": 76.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "HKUDS/DeepTutor"
+      ]
+    },
+    {
+      "domain": "hyperframes",
+      "score": 76.5,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.5,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "heygen-com/hyperframes"
+      ]
+    },
+    {
+      "domain": "future",
+      "score": 76.1,
+      "breakdown": {
+        "crowding": 35.0,
+        "momentum": 36.1,
+        "spread": 5.0
+      },
+      "existing_lists": 0,
+      "existing_top_stars": 0,
+      "existing_top_repo": null,
+      "witnesses": [
+        "thedotmack/claude-mem"
+      ]
+    }
+  ],
+  "total_topics_seen": 293
+}
