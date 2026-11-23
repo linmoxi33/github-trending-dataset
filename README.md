@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-22` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-23` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,803 | 16,223 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +883 | 323,799 |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +769 | 62,140 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +488 | 68,210 |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +260 | 18,139 |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,716 | 18,114 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +788 | 324,284 |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +699 | 62,906 |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +473 | 68,849 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +294 | 18,510 |
 
 ### Coverage gaps
 
@@ -176,7 +176,7 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 | 85.0 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
 | 83.4 | `slop` | 0 | — | `diagram-design`, `impeccable` |
 | 81.9 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
-| 80.9 | `bring` | 0 | — | `ag-ui`, `univer` |
+| 80.6 | `bring` | 0 | — | `ag-ui`, `univer` |
 
 <!-- TRENDING:END -->
 
