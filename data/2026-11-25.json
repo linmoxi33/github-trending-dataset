@@ -1,0 +1,776 @@
+{
+  "date": "2026-11-25",
+  "captured_at": "2026-11-25T05:42:40+00:00",
+  "source": "https://github.com/trending",
+  "lists": {
+    "daily": [
+      {
+        "repo": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars_total": 21771,
+        "forks_total": 2260,
+        "stars_period": 1826,
+        "built_by": [
+          "claude",
+          "injectifytest",
+          "elementalsouls",
+          "github-actions",
+          "rudycelekli"
+        ]
+      },
+      {
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_total": 325972,
+        "forks_total": 28928,
+        "stars_period": 1003,
+        "built_by": [
+          "obra",
+          "arittr",
+          "claude",
+          "clkao",
+          "arimu1"
+        ]
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "stars_total": 65030,
+        "forks_total": 5921,
+        "stars_period": 1074,
+        "built_by": [
+          "yuh-yang",
+          "claude",
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
+        ]
+      },
+      {
+        "repo": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "stars_total": 70448,
+        "forks_total": 9158,
+        "stars_period": 727,
+        "built_by": [
+          "jingyaogong",
+          "iomgaa-ycz",
+          "Linxiushen",
+          "basil-k-aji-dev",
+          "readlnh"
+        ]
+      },
+      {
+        "repo": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars_total": 19308,
+        "forks_total": 2083,
+        "stars_period": 360,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "djiang-jq",
+          "minupalaniappan",
+          "ericzakariasson"
+        ]
+      },
+      {
+        "repo": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "stars_total": 209146,
+        "forks_total": 10928,
+        "stars_period": 991,
+        "built_by": [
+          "nickscamara",
+          "mogery",
+          "rafaelsideguide",
+          "abimaelmartell",
+          "claude"
+        ]
+      },
+      {
+        "repo": "nginx/nginx",
+        "url": "https://github.com/nginx/nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars_total": 33259,
+        "forks_total": 8397,
+        "stars_period": 158,
+        "built_by": [
+          "mdounin",
+          "arut",
+          "vl-homutov",
+          "VBart",
+          "pluknet"
+        ]
+      },
+      {
+        "repo": "openvinotoolkit/openvino",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "language": "C++",
+        "stars_total": 12506,
+        "forks_total": 3696,
+        "stars_period": 185,
+        "built_by": [
+          "ilya-lavrenov",
+          "rkazants",
+          "ilyachur",
+          "mvafin",
+          "dependabot"
+        ]
+      },
+      {
+        "repo": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars_total": 72262,
+        "forks_total": 4818,
+        "stars_period": 802,
+        "built_by": [
+          "cathrynlavery",
+          "github-actions",
+          "rudycelekli",
+          "mvanhorn",
+          "claude"
+        ]
+      },
+      {
+        "repo": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars_total": 74454,
+        "forks_total": 6561,
+        "stars_period": 703,
+        "built_by": [
+          "mvanhorn",
+          "claude",
+          "tmchow",
+          "iliaal",
+          "dependabot"
+        ]
+      },
+      {
+        "repo": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "stars_total": 12746,
+        "forks_total": 1527,
+        "stars_period": 403,
+        "built_by": [
+          "JLXIA",
+          "davideast",
+          "rudycelekli",
+          "Emp1500",
+          "dalmaer"
+        ]
+      },
+      {
+        "repo": "mjmirza/app-store-compliance",
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "language": "Shell",
+        "stars_total": 5997,
+        "forks_total": 387,
+        "stars_period": 928,
+        "built_by": [
+          "mjmirza",
+          "google-labs-jules",
+          "omaralbeik",
+          "akash5852",
+          "JoAdo07"
+        ]
+      },
+      {
+        "repo": "Tracer-Cloud/opensre",
+        "url": "https://github.com/Tracer-Cloud/opensre",
+        "description": "The open-source agent for CI/CD reliability.",
+        "language": "Python",
+        "stars_total": 15265,
+        "forks_total": 2017,
+        "stars_period": 398,
+        "built_by": [
+          "davincios",
+          "VaibhavUpreti",
+          "muddlebee",
+          "YauhenBichel",
+          "cursoragent"
+        ]
+      },
+      {
+        "repo": "toeverything/AFFiNE",
+        "url": "https://github.com/toeverything/AFFiNE",
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "language": "TypeScript",
+        "stars_total": 78098,
+        "forks_total": 5704,
+        "stars_period": 584,
+        "built_by": [
+          "darkskygit",
+          "pengx17",
+          "JimmFly",
+          "renovate",
+          "EYHN"
+        ]
+      },
+      {
+        "repo": "XiaoYouChR/Ghost-Downloader-3",
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+        "description": "The only downloader you need. 下载器的集大成者。",
+        "language": "Python",
+        "stars_total": 17578,
+        "forks_total": 1059,
+        "stars_period": 1092,
+        "built_by": [
+          "XiaoYouChR",
+          "github-actions",
+          "i0ntempest",
+          "Alpha-Qian",
+          "LittleNightSong"
+        ]
+      },
+      {
+        "repo": "zhouxiaoka/autoclip",
+        "url": "https://github.com/zhouxiaoka/autoclip",
+        "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+        "language": "Python",
+        "stars_total": 15584,
+        "forks_total": 2286,
+        "stars_period": 980,
+        "built_by": [
+          "zhouxiaoka",
+          "cursoragent",
+          "claude",
+          "JasonOA888",
+          "mitsa-ng"
+        ]
+      }
+    ],
+    "weekly": [
+      {
+        "repo": "backnotprop/plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "stars_total": 14939,
+        "forks_total": 1438,
+        "stars_period": 1956,
+        "built_by": [
+          "backnotprop",
+          "claude",
+          "rudycelekli",
+          "utpalsinghdev",
+          "leoreisdias"
+        ]
+      },
+      {
+        "repo": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "stars_total": 12746,
+        "forks_total": 1527,
+        "stars_period": 2626,
+        "built_by": [
+          "JLXIA",
+          "davideast",
+          "rudycelekli",
+          "Emp1500",
+          "dalmaer"
+        ]
+      },
+      {
+        "repo": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "stars_total": 10876,
+        "forks_total": 825,
+        "stars_period": 2494,
+        "built_by": [
+          "paulirish",
+          "rviscomi",
+          "micahjo7",
+          "github-actions",
+          "LeaVerou"
+        ]
+      },
+      {
+        "repo": "alibaba/open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "stars_total": 56119,
+        "forks_total": 4632,
+        "stars_period": 2638,
+        "built_by": [
+          "lizhengfeng101",
+          "wu21-web",
+          "chethanuk",
+          "Qiyuanqiii",
+          "stay-foolish-forever"
+        ]
+      },
+      {
+        "repo": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars_total": 74454,
+        "forks_total": 6561,
+        "stars_period": 5369,
+        "built_by": [
+          "mvanhorn",
+          "claude",
+          "tmchow",
+          "iliaal",
+          "dependabot"
+        ]
+      },
+      {
+        "repo": "ChromeDevTools/chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars_total": 59247,
+        "forks_total": 4881,
+        "stars_period": 1258,
+        "built_by": [
+          "OrKoN",
+          "dependabot",
+          "Lightning00Blade",
+          "yulunz",
+          "browser-automation-bot"
+        ]
+      },
+      {
+        "repo": "tradermonty/claude-trading-skills",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "stars_total": 8334,
+        "forks_total": 1540,
+        "stars_period": 1504,
+        "built_by": [
+          "tradermonty",
+          "claude",
+          "dependabot",
+          "raikkonenPotter",
+          "charlie-morrison"
+        ]
+      },
+      {
+        "repo": "ag-ui-protocol/ag-ui",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "stars_total": 21613,
+        "forks_total": 2175,
+        "stars_period": 1753,
+        "built_by": [
+          "ranst91",
+          "contextablemark",
+          "mme",
+          "claude",
+          "jpr5"
+        ]
+      },
+      {
+        "repo": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars_total": 32924,
+        "forks_total": 2582,
+        "stars_period": 2890,
+        "built_by": [
+          "github-actions",
+          "cixzhang",
+          "josephfarina",
+          "rubyycheung",
+          "vjeux"
+        ]
+      },
+      {
+        "repo": "pookjw/HermesEnabler",
+        "url": "https://github.com/pookjw/HermesEnabler",
+        "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+        "language": "Objective-C",
+        "stars_total": 2497,
+        "forks_total": 206,
+        "stars_period": 328,
+        "built_by": [
+          "pookjw",
+          "metalnodeug",
+          "claude",
+          "SamZong233",
+          "AVGThor"
+        ]
+      },
+      {
+        "repo": "we-promise/sure",
+        "url": "https://github.com/we-promise/sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "stars_total": 17807,
+        "forks_total": 1548,
+        "stars_period": 1567,
+        "built_by": [
+          "jjmata",
+          "dependabot",
+          "claude",
+          "zachgoll",
+          "Shpigford"
+        ]
+      },
+      {
+        "repo": "dream-num/univer",
+        "url": "https://github.com/dream-num/univer",
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "stars_total": 31735,
+        "forks_total": 2865,
+        "stars_period": 3278,
+        "built_by": [
+          "jikkai",
+          "DR-Univer",
+          "wpxp123456",
+          "wzhudev",
+          "Dushusir"
+        ]
+      },
+      {
+        "repo": "kajisho5/ffmpeg-skill",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+        "language": "Python",
+        "stars_total": 10783,
+        "forks_total": 923,
+        "stars_period": 2993,
+        "built_by": [
+          "claude",
+          "kajisho5",
+          "github-actions",
+          "claude",
+          "Ethereal49"
+        ]
+      }
+    ],
+    "monthly": [
+      {
+        "repo": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars_total": 60693,
+        "forks_total": 3317,
+        "stars_period": 29170,
+        "built_by": [
+          "Luffixos",
+          "Nutlope",
+          "rudycelekli",
+          "cursoragent",
+          "xunguangzlj-cloud"
+        ]
+      },
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars_total": 78054,
+        "forks_total": 5270,
+        "stars_period": 35068,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ]
+      },
+      {
+        "repo": "milind-soni/OpenMausBot",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "stars_total": 27607,
+        "forks_total": 3948,
+        "stars_period": 22073,
+        "built_by": [
+          "milind-soni",
+          "claude",
+          "AdityaUmale",
+          "aivsomkar",
+          "robinsonnblack"
+        ]
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+        "language": "TypeScript",
+        "stars_total": 78021,
+        "forks_total": 13422,
+        "stars_period": 47147,
+        "built_by": [
+          "juliusmarminge",
+          "claude",
+          "maria-rcks",
+          "t3dotgg",
+          "codex"
+        ]
+      },
+      {
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars_total": 200091,
+        "forks_total": 23404,
+        "stars_period": 16946,
+        "built_by": [
+          "rlancemartin",
+          "klazuka",
+          "claude",
+          "cj-ant",
+          "ericharmeling"
+        ]
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars_total": 119599,
+        "forks_total": 10394,
+        "stars_period": 17462,
+        "built_by": [
+          "thedotmack",
+          "claude",
+          "Afloat16",
+          "rudycelekli",
+          "DeryFerd"
+        ]
+      },
+      {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+        "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+        "language": "Python",
+        "stars_total": 9056,
+        "forks_total": 1591,
+        "stars_period": 6218,
+        "built_by": [
+          "claude",
+          "Jakeschincariol"
+        ]
+      },
+      {
+        "repo": "backnotprop/plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "stars_total": 14939,
+        "forks_total": 1438,
+        "stars_period": 5292,
+        "built_by": [
+          "backnotprop",
+          "claude",
+          "rudycelekli",
+          "utpalsinghdev",
+          "leoreisdias"
+        ]
+      },
+      {
+        "repo": "Ebony-Vinyl/dsh-our-free-model",
+        "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+        "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+        "language": "JavaScript",
+        "stars_total": 86374,
+        "forks_total": 2443,
+        "stars_period": 48193,
+        "built_by": [
+          "zixin947",
+          "Ebony-Vinyl",
+          "github-actions",
+          "look-back-lysj",
+          "menghuanshiguang"
+        ]
+      },
+      {
+        "repo": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "language": "Python",
+        "stars_total": 62446,
+        "forks_total": 7518,
+        "stars_period": 20099,
+        "built_by": [
+          "pancacake",
+          "claude",
+          "evan188199-tech",
+          "Pinkllow",
+          "github-actions"
+        ]
+      },
+      {
+        "repo": "yetone/magpie",
+        "url": "https://github.com/yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "language": "Go",
+        "stars_total": 41153,
+        "forks_total": 3769,
+        "stars_period": 20773,
+        "built_by": [
+          "yetone",
+          "ggbdpq",
+          "yinwu01",
+          "waitingsnow",
+          "claude"
+        ]
+      },
+      {
+        "repo": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars_total": 116416,
+        "forks_total": 6955,
+        "stars_period": 30688,
+        "built_by": [
+          "pbakaus",
+          "claude",
+          "abdulwahabone",
+          "github-actions",
+          "cursoragent"
+        ]
+      },
+      {
+        "repo": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "stars_total": 117175,
+        "forks_total": 13363,
+        "stars_period": 22382,
+        "built_by": [
+          "sdushantha",
+          "hoadlck",
+          "ppfeister",
+          "TheYahya",
+          "Czechball"
+        ]
+      },
+      {
+        "repo": "AgriciDaniel/claude-seo",
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "language": "Python",
+        "stars_total": 32233,
+        "forks_total": 3941,
+        "stars_period": 12213,
+        "built_by": [
+          "AgriciDaniel",
+          "claude",
+          "Afloat16",
+          "Nordalux",
+          "rudycelekli"
+        ]
+      },
+      {
+        "repo": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "stars_total": 12746,
+        "forks_total": 1527,
+        "stars_period": 4010,
+        "built_by": [
+          "JLXIA",
+          "davideast",
+          "rudycelekli",
+          "Emp1500",
+          "dalmaer"
+        ]
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+        "language": "TypeScript",
+        "stars_total": 89710,
+        "forks_total": 8361,
+        "stars_period": 18583,
+        "built_by": [
+          "miguel-heygen",
+          "claude",
+          "vanceingalls",
+          "jrusso1020",
+          "ukimsanov"
+        ]
+      },
+      {
+        "repo": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars_total": 21771,
+        "forks_total": 2260,
+        "stars_period": 15607,
+        "built_by": [
+          "claude",
+          "injectifytest",
+          "elementalsouls",
+          "github-actions",
+          "rudycelekli"
+        ]
+      },
+      {
+        "repo": "kajisho5/ffmpeg-skill",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+        "language": "Python",
+        "stars_total": 10783,
+        "forks_total": 923,
+        "stars_period": 8190,
+        "built_by": [
+          "claude",
+          "kajisho5",
+          "github-actions",
+          "claude",
+          "Ethereal49"
+        ]
+      },
+      {
+        "repo": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "stars_total": 53842,
+        "forks_total": 3768,
+        "stars_period": 9395,
+        "built_by": [
+          "ctate",
+          "Railly",
+          "lahfir",
+          "github-actions",
+          "claude"
+        ]
+      }
+    ]
+  }
+}

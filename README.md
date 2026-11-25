@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-24` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-25` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +2,029 | 20,223 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +840 | 325,325 |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +790 | 64,004 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +828 | 69,714 |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +397 | 18,911 |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,826 | 21,771 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1,003 | 325,972 |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1,074 | 65,030 |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +727 | 70,448 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +360 | 19,308 |
 
 ### Coverage gaps
 
@@ -173,10 +173,10 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 | Score | Domain | Existing lists | Best existing | Witnesses |
 |---:|---|---:|---:|---|
 | 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `app-store-compliance` |
-| 85.0 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
-| 83.4 | `slop` | 0 | — | `diagram-design`, `impeccable` |
-| 82.0 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
-| 79.4 | `bring` | 0 | — | `ag-ui`, `univer` |
+| 85.0 | `kimi` | 0 | — | `dsh-our-free-model`, `magpie` |
+| 84.8 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
+| 83.5 | `slop` | 0 | — | `diagram-design`, `impeccable` |
+| 82.2 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
 
 <!-- TRENDING:END -->
 
