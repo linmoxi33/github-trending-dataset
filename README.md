@@ -154,17 +154,17 @@ A high score means several projects are pulling attention to a domain that nobod
 
 <!-- TRENDING:START -->
 
-**Last snapshot:** `2026-11-26` · source: [github.com/trending](https://github.com/trending)
+**Last snapshot:** `2026-11-27` · source: [github.com/trending](https://github.com/trending)
 
 ### Top 5 · today
 
 | # | Repository | Language | Stars today | Total |
 |---:|---|---|---:|---:|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,652 | 23,294 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +903 | 326,780 |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1,106 | 65,831 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +826 | 71,159 |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +416 | 19,593 |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1,597 | 24,901 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +854 | 327,647 |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +746 | 66,508 |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +702 | 71,810 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +270 | 19,832 |
 
 ### Coverage gaps
 
@@ -174,9 +174,9 @@ Domains trending right now that have **no dedicated awesome-list** in the index.
 |---:|---|---:|---:|---|
 | 86.0 | `coding-agent` | 2 | — | `stitch-skills`, `app-store-compliance` |
 | 85.0 | `kimi` | 0 | — | `dsh-our-free-model`, `magpie` |
-| 84.7 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
-| 83.5 | `slop` | 0 | — | `diagram-design`, `impeccable` |
-| 82.2 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
+| 84.6 | `machine-readable` | 0 | — | `ffmpeg-skill`, `security-audit-skill` |
+| 83.4 | `slop` | 0 | — | `diagram-design`, `impeccable` |
+| 82.0 | `https` | 0 | — | `CLI-Anything`, `DeepTutor` |
 
 <!-- TRENDING:END -->
 
